@@ -57,3 +57,13 @@ table img:hover{
     transform: scale(1.005);
     transition: ease-in-out 2s;
 }
+.credits{
+    background-color: purple;
+    padding: 30px;
+    color: white;
+    font-size: 24px;
+}
+.credits:hover{
+    transform: rotate(15deg);
+    transition: ease-in-out 10ms;
+}
