@@ -44,3 +44,16 @@ h1.title:hover{
     text-decoration: underline;
     color: rgb(19, 197, 34);
 }
+.main-img{
+    width:100%;
+    height: 50vh;
+}
+table img{
+    height: 500px;
+    width:400px;
+}
+table img:hover{
+    opacity:0.5;
+    transform: scale(1.005);
+    transition: ease-in-out 2s;
+}
